@@ -1,0 +1,54 @@
+.p{
+    text-align: center;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(247, 89, 141)
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.topnav a:hover {
+    background-color: rgb(88, 146, 88);
+    color: pink;
+}
+.box{
+    text-align: right;
+}
+footer div.footer{background-color: rgb(247, 89, 141);}
+
+
+.footer h4{
+color:white;
+}
+.footer{
+    text-align: center;
+  
+}
+/* .footer .fo2{
+    text-align: center;
+} */
+video{
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    }
+    .video{
+        display: inline-block;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+
+        }
+        .welcome {
+            position: absolute;
+            height: 115px;
+        }
+    
